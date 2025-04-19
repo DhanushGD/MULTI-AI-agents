@@ -1,4 +1,4 @@
-# 🤖 AI IT Assistant — Hybrid RAG + Multi-Agent System with CrewAI
+# 🤖 AI IT Assistant — Hybrid Search RAG + Multi-Agent System with CrewAI
 
 This project is a powerful AI-powered assistant designed to help IT teams answer technical queries using uploaded documentation (SOPs, Runbooks, Playbooks) — with fallback to Wikipedia for unknowns. It uses hybrid retrieval-augmented generation (RAG) and multi-agent collaboration with [CrewAI](https://github.com/joaomdmoura/crewai) for robust, context-aware answers.
 
