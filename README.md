@@ -72,8 +72,8 @@ WikipediaAgent | Fallback agent that fetches info from Wikipedia when needed
 ## 📦 Setup Instructions
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/hybrid-rag-crewai-assistant.git
-cd hybrid-rag-crewai-assistant
+git clone https://github.com/DhanushGD/MULTI-AI-agents.git
+cd MULTI-AI-agents
 
 # (Optional) Create virtual environment
 python -m venv .venv
