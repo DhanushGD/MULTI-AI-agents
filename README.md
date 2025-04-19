@@ -108,6 +108,8 @@ Query results with suggestions and validations.
 
 ### 🖥️ Terminal Logs: Agents in Action
 Behind the scenes — each agent logs its steps in terminal.
+![Screenshot 2025-04-19 172615](https://github.com/user-attachments/assets/12f8d78b-15cd-4b81-8b7d-6d0bdb31eccb)
+
 
 
 
