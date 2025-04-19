@@ -1,9 +1,11 @@
-# 🤖 AI IT Assistant — Hybrid RAG + Multi-Agent System with CrewAI
+![Screenshot 2025-04-19 172436](https://github.com/user-attachments/assets/938504b7-41ff-4055-bc1c-0ae2cbcb9429)# 🤖 AI IT Assistant — Hybrid RAG + Multi-Agent System with CrewAI
 
 This project is a powerful AI-powered assistant designed to help IT teams answer technical queries using uploaded documentation (SOPs, Runbooks, Playbooks) — with fallback to Wikipedia for unknowns. It uses hybrid retrieval-augmented generation (RAG) and multi-agent collaboration with [CrewAI](https://github.com/joaomdmoura/crewai) for robust, context-aware answers.
 
 
 *Main interface with PDF upload and query section*
+![Screenshot 2025-04-19 172436](https://github.com/user-attachments/assets/1db75307-b51c-4f7e-801c-4fdc65f9ad9b)
+
 
 ---
 
@@ -93,13 +95,20 @@ HF_TOKEN=your_huggingface_token
 
 ## 🖼️ Screenshots
 ### 🔐 GROQ API Key Authentication
+![image](https://github.com/user-attachments/assets/a3ecbf01-3d4a-4e80-a11c-b9d3147cba74)
+
 
 ### 📁 Uploading PDFs
 Upload multiple technical documents.
+![image](https://github.com/user-attachments/assets/343b0ef8-47ef-4479-bae6-904e2106bf45)
 
 ### 🧠 Agent Response Display
 Query results with suggestions and validations.
+![image](https://github.com/user-attachments/assets/e3fc8933-d29e-4866-a839-76ffd970c807)
+![image](https://github.com/user-attachments/assets/911a6f7a-5778-42a6-b7bc-c88f3dda3934)
 
 ### 🖥️ Terminal Logs: Agents in Action
 Behind the scenes — each agent logs its steps in terminal.
+![Uploading Screenshot 2025-04-19 172615.png…]()
+
 
